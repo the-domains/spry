@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Using technology to keep spry!'
-datePublished: '2016-03-25T22:14:11.970Z'
-dateModified: '2016-03-25T22:13:42.576Z'
+datePublished: '2016-03-25T22:30:25.374Z'
+dateModified: '2016-03-25T22:30:24.507Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-25-using-technology-to-keep-spry.md
